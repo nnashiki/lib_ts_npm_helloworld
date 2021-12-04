@@ -1,0 +1,24 @@
+{
+  "name": "lib_ts_npm_helloworld",
+  "version": "1.0.0",
+  "description": "学習用ライブラリ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nnashiki/lib_ts_npm_helloworld.git"
+  },
+  "author": "niten nashiki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nnashiki/lib_ts_npm_helloworld/issues"
+  },
+  "homepage": "https://github.com/nnashiki/lib_ts_npm_helloworld#readme",
+  "devDependencies": {
+    "@types/node": "^16.11.11",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.2"
+  }
+}
